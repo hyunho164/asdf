@@ -1,0 +1,122 @@
+.c1{
+    
+    font-size: 18px;
+    font-weight: bold;
+    
+    margin-top: 255px;
+    margin-left: 153px;
+    
+    
+    border-radius: 25px;
+    border: 0;
+    background-color: #303030;
+    color: white;
+    width: 100px;
+    height: 40px;
+}
+.c2 {
+    border: 0;
+    background-color: #303030;
+    font-size: 18px;
+    width: 100px;
+    height: 40px;
+    border-radius: 25px;
+    color: white;
+    font-weight: bold;
+    position: static;
+    margin-left: 153px;
+    margin-top: 320px;
+}
+
+.c3 {
+    border: 0;
+    background-color: #303030;
+    font-size: 18px;
+    width: 100px;
+    height: 40px;
+    border-radius: 25px;
+    color: white;
+    font-weight: bold;
+    margin-top: 385px;
+    position: static;
+    margin-left: 153px;
+}
+
+.c4 {
+    border: 0;
+    background-color: #303030;
+    font-size: 18px;
+    width: 100px;
+    height: 40px;
+    border-radius: 25px;
+    color: white;
+    font-weight: bold;
+    margin-top: 450px;
+    position: static;
+    margin-left: 153px;
+}
+
+.c5 {
+    border: 0;
+    background-color: #303030;
+    font-size: 18px;
+    width: 100px;
+    height: 40px;
+    border-radius: 25px;
+    color: white;
+    font-weight: bold;
+    margin-top: 515px;
+    position: static;
+    margin-left: 153px;
+}
+
+.c6 {
+    border: 0;
+    background-color: #303030;
+    font-size: 18px;
+    width: 100px;
+    height: 40px;
+    border-radius: 25px;
+    color: white;
+    font-weight: bold;
+    margin-top: 580px;
+    position: static;
+    margin-left: 153px;
+}
+
+.c7 {
+    border: 0;
+    background-color: #303030;
+    font-size: 18px;
+    width: 100px;
+    height: 40px;
+    border-radius: 25px;
+    color: white;
+    font-weight: bold;
+    margin-top: 645px;
+    position: static;
+    margin-left: 153px;
+}
+
+
+
+.c1s {
+    display: none;
+    position: absolute;
+}
+.dak {
+    border: 0;
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+    font-size: 20px;
+    font-weight: bold;
+    width: 300px;
+    height: 50px;
+    
+
+    margin-top: 780px;
+    margin-left: 50px;
+    display: none;
+    position: absolute;
+}
